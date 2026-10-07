@@ -1,4 +1,5 @@
 ---
+title: Лабораторная работа №3. Базовая настройка OSPF
 tags:
   - ospf
   - point-to-point
